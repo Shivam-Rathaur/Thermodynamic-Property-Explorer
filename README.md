@@ -28,7 +28,7 @@ This project includes:
 ## 📂 Project Structure
 ```
 
-steam\_table\_explorer/
+Thermodynamic-Property-Explorer/
 ├── app/
 │   ├── cli.py                \# CLI entrypoint (now supports --fluid)
 │   ├── streamlit\_app.py      \# Web UI with fluid selection dropdown
