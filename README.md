@@ -47,7 +47,7 @@ steam\_table\_explorer/
 
 1.  **Clone repository**:
     ```bash
-    git clone [https://github.com/yourusername/thermodynamic-property-explorer.git](https://github.com/yourusername/thermodynamic-property-explorer.git)
+    git clone [https://github.com/Shivam-Rathaur/Thermodynamic-Property-Explorer.git](https://github.com/Shivam-Rathaur/Thermodynamic-Property-Explorer.git)
     cd thermodynamic-property-explorer
     ```
 2.  **Create & activate virtual environment**:
@@ -141,7 +141,5 @@ phase: two_phase
 B.Tech (3rd Year), Materials Science & Metallurgical Engineering, IIT Hyderabad
 (Second Major: Mechanical Engineering)
 
-```
-```
 
 Note: This project was developed as part of my academic work at IIT Hyderabad, focusing on applying core thermodynamic principles to create engineering tools useful in industrial applications.
